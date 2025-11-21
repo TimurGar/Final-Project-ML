@@ -6,3 +6,7 @@ Predicting Youtube/Tiktok shorts views using
 - K means model
 - XGboost model
 
+
+`
+pip install pandas numpy xgboost scikit-learn matplotlib
+`
