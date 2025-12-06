@@ -1,11 +1,11 @@
 # Video Views Prediction - ML Project
 
-## 📋 Overview
+## Overview
 
 This project predicts YouTube Shorts and TikTok video views using machine learning models. We analyze social media trends data from 2025 to understand what factors can be used to predict the video viewcount
 
 **Dataset Source:** Kaggle / Hugging Face  
-**Authors:** Code for Fun Dev, Timur, Will O'Halloran
+**Authors:** Artur Idrissov, Timur Garifullin, Will O'Halloran
 
 ## Models Implemented
 
