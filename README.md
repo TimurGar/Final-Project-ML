@@ -10,3 +10,5 @@ Predicting Youtube/Tiktok shorts views using
 `
 pip install pandas numpy xgboost scikit-learn matplotlib
 `
+
+By Code for Fun Dev, Timur, Will O'Halloran
